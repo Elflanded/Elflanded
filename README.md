@@ -4,11 +4,11 @@
 
 
 
-- 🔭 I’m currently working on kitsune! (a discord bot)
-- 🌱 I’m currently learning Java, JS, React
-- 👯 I’m looking to collaborate on any project that involves python.
-- 📫 How to reach me: Elflanded#0001
-- 😄 Pronouns: He/Him
+🔭 I’m currently working on kitsune! (a discord bot)
+🌱 I’m currently learning Java, JS, React
+👯 I’m looking to collaborate on any project that involves python.
+📫 How to reach me: Elflanded#0001
+😄 Pronouns: He/Him
 
 # Stats
 
